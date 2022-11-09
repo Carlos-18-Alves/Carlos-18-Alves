@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Alves
-- 👀 I’m interested in learn and improve
+- 👀 I’m interested in learning and improvement
 - 🌱 I’m currently studying Systems Analysis and Development
 - 📫 How to reach me: c.eduardo.alves7@gmail.com
 
