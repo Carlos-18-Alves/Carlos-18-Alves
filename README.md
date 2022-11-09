@@ -36,7 +36,7 @@
   <a href = "mailto:c.eduardo.alves7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-alves-de-melo-júnior-274239236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/Carlos-18-Alves/Carlos-18-Alves/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Carlos-18-Alves/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
