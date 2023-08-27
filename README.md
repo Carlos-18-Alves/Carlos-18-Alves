@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Carlos Alves
-- 👀 I’m interested in learning and improvement
-- 🌱 I’m currently studying Systems Analysis and Development at IFPB
+- 🚀 On a journey of continuous learning and growth
+- 📚 Studying Systems Analysis and Development at IFPB
+- ☁️ AWS Cloud Data Engineering Intern at Compass UOL
 
 <div align="center">
   <a href="https://github.com/Carlos-18-Alves">
