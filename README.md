@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos Alves
 - 🚀 On a journey of continuous learning and growth
 - 📚 Studying Systems Analysis and Development at IFPB
-- ☁️ AWS Cloud Data Engineering Intern at Compass UOL
+- 💻 Data Engineer Trainee at Compass UOL
 <div align="center">
   <a href="https://github.com/Carlos-18-Alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-18-Alves&show_icons=true&theme=dark&include_all_commits=true"/>
